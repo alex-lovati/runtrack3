@@ -13,7 +13,7 @@
 
         </header>
         <main>
-        <button id="button">appuyez dessus</button>
+        <button id="button">Cliquez</button>
         <p id="compteur">0</p>
 
         <script type="text/javascript" src='script.js'></script>

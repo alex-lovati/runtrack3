@@ -3,8 +3,8 @@ var compteur = document.getElementById('compteur');
 console.log(compteur)
 
 function addOne() {
-        var nb = compteur.innerHTML;
-        nb++;
-        compteur.innerHTML = nb;
+    var chiffre = compteur.innerHTML;
+    chiffre++;
+    compteur.innerHTML = chiffre;
 }
 button.addEventListener('click', addOne)

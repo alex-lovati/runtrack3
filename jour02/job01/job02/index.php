@@ -13,9 +13,9 @@
 
         </header>
         <main>
-        <button id="button" onclick="showHide()">Cliquez</button>
+        <button id="button" onclick="showHide()">appuyez dessus</button>
         <article id="show/hide">
-            “L'important n'est pas la chute, mais l'atterrissage.”.
+            “L'important n'est pas la chute, mais l'atterrissage.”
         </article>
         </main>
         <footer>
