@@ -7,17 +7,16 @@
         <title>Document</title>
         <script language="javascript" type="text/javascript"src="script.js">
         </script>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <header>
 
         </header>
         <main>
-            <textarea id="keylogger"></textarea>
-            <script type="text/javascript" src='script.js'></script>
         </main>
-        <footer>
-
+        <footer id="footer">
+            <script type="text/javascript" src='script.js'></script>
         </footer>
     </body>
 </html>
